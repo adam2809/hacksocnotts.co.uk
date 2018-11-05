@@ -1,2 +1,0 @@
-webpackJsonp([27],{1175:function(n,a){n.exports="Take part in the University of Nottingham's annual 24 hour hackathon and build something really cool!"}});
-//# sourceMappingURL=27.9c1b8674.chunk.js.map
