@@ -1,0 +1,2 @@
+webpackJsonp([30],{1201:function(t,e){t.exports="Want to be a part of what makes HackSoc Great? Nominate yourself to become a part of the committee.\r\n"}});
+//# sourceMappingURL=30.fa8d863a.chunk.js.map
