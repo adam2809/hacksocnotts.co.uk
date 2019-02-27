@@ -1,2 +1,0 @@
-webpackJsonp([23],{1216:function(e,t){e.exports="Join us for the September edition of Tech Nottingham where they have two fantastic talks from Dylan Beattie and Seren Davies.\n"}});
-//# sourceMappingURL=23.4083d1a6.chunk.js.map
