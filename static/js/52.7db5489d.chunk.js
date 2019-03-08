@@ -1,2 +1,0 @@
-webpackJsonp([52],{1195:function(e,n){e.exports="__The event is for current University of Nottingham Students' Union members only.__\n\nJoin us for Leah Jane Jervis talking about her experience on industrial placement, and some helpful advice for your own applications."}});
-//# sourceMappingURL=52.7db5489d.chunk.js.map

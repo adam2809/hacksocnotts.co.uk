@@ -1,2 +1,0 @@
-webpackJsonp([53],{1194:function(e,a){e.exports="## Leah Jane Jervis\n\nI will discuss the application process of applying for an industrial placement that suits you and the qualities that employers look for outside of the technical scope, the benefits of doing a placement year and how i personally found it beneficial, inclusive of what I did for my placement year."}});
-//# sourceMappingURL=53.b431c436.chunk.js.map
