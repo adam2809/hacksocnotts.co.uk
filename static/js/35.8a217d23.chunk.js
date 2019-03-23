@@ -1,2 +1,0 @@
-webpackJsonp([35],{1216:function(a,e){a.exports="Learn about how easy and awesome it is to make an app for Alexa during Steven Pears' Talking to Alexa talk and workshop."}});
-//# sourceMappingURL=35.8a217d23.chunk.js.map
