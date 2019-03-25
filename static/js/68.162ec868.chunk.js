@@ -1,2 +1,0 @@
-webpackJsonp([68],{1170:function(e,o){e.exports="It may feel like our first event was just yesterday, but it's come time for us to elect a new committee take HackSoc forward.\n\nNominations are open, ensure you come to cast your vote.\n\nWe'll be providing pizza and drinks \ud83c\udf55\ud83e\udd64\n"}});
-//# sourceMappingURL=68.162ec868.chunk.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([44],{1218:function(o,e){o.exports="Quorum is an open source fork of the Ethereum blockchain, developed by J.P. Morgan. Learn how to edit a Smart Contract and run Quorum on your computer."}});
-//# sourceMappingURL=44.659ff274.chunk.js.map
