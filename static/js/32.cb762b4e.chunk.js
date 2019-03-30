@@ -1,2 +1,0 @@
-webpackJsonp([32],{1254:function(a,e){a.exports="This month we have two fantastic talks from Tessa Cooper from FutureLearn, and local community member Jamie Tanna from Capital One.\n"}});
-//# sourceMappingURL=32.cb762b4e.chunk.js.map
