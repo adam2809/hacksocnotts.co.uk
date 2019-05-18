@@ -1,2 +1,0 @@
-webpackJsonp([40],{1250:function(o,e){o.exports="Take a break from your disertation writing, or appreciate your lack of coursework and join us for April's Edition of Tech Notingham with talks by  Tessa Cooper and Aimee Gamble-Milner."}});
-//# sourceMappingURL=40.00b89966.chunk.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([74],{1188:function(o,e){o.exports="C++ is a high performant langauge that is extensively used in industry. Some of the biggest companies like Google, Facebook, YouTube and Amazon all use C++ to serve billions of users fast while keeping running costs low. If you want to learn how to use C++ and start using it to built your own high-performant applications you can begin by attending this workshop."}});
+//# sourceMappingURL=74.e2ee833c.chunk.js.map
