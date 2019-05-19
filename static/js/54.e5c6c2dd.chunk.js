@@ -1,2 +1,0 @@
-webpackJsonp([54],{1228:function(e,a){e.exports="Kotlin is a JVM-based programming language built by Jetbrains. It is used heavily as a replacement for Java, especially in Android-based development. Come along to learn the basics!"}});
-//# sourceMappingURL=54.e5c6c2dd.chunk.js.map
