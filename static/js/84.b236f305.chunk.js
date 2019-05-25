@@ -1,0 +1,2 @@
+webpackJsonp([84],{1192:function(e,i){e.exports="Go in-depth into Cyber Security and Wireless Security with our series of workshops run by Hani Momeninia\n"}});
+//# sourceMappingURL=84.b236f305.chunk.js.map

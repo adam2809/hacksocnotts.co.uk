@@ -1,2 +1,0 @@
-webpackJsonp([63],{1228:function(e,o){e.exports="Python is an incredibly versatile programming language that's easy to learn. If you've ever wanted to learn how to code or just want to supplement your studies, our five-week workshop series is a great place to do it.\r\n"}});
-//# sourceMappingURL=63.94412df8.chunk.js.map

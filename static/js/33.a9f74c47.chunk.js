@@ -1,0 +1,2 @@
+webpackJsonp([33],{1294:function(e,t){e.exports="__The event is for current University of Nottingham Students' Union members only.__\n\nJoin us for our try-it event where you get to meet the team, get a taste of what we do.\n\nWe'll be providing free pizza and drink."}});
+//# sourceMappingURL=33.a9f74c47.chunk.js.map

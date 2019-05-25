@@ -1,2 +1,0 @@
-webpackJsonp([8],{1257:function(e,n,p){e.exports=p.p+"static/media/banner.b2ec54e4.jpg"}});
-//# sourceMappingURL=8.29d399c3.chunk.js.map
