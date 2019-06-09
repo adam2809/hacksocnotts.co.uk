@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:2019-agm@2019.hacksocnotts.co.uk
 SUMMARY:Annual General Meeting - Cast your Vote!
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190401T183000Z
 DTEND:20190401T203000Z
 URL:https://hacksocnotts.co.uk/event/2019-agm
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:being-part-of-the-community-and-how-to-talk-really-really-good@2018.hacksocnotts.co.uk
 SUMMARY:Being part of the community and how to talk really\, really good.
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181101T183000Z
 DTEND:20181101T200000Z
 URL:https://hacksocnotts.co.uk/event/being-part-of-the-community-and-how-to
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:browser-security-mark-goodwin@2019.hacksocnotts.co.uk
 SUMMARY:Building and Breaking with Mark Goodwin
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190404T183000Z
 DTEND:20190404T200000Z
 URL:https://hacksocnotts.co.uk/event/browser-security-mark-goodwin
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpp-1@2019.hacksocnotts.co.uk
 SUMMARY:C++ Workshop 1
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190328T183000Z
 DTEND:20190328T200000Z
 URL:https://hacksocnotts.co.uk/event/cpp-1
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpp-2@2019.hacksocnotts.co.uk
 SUMMARY:C++ Workshop 2
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190409T183000Z
 DTEND:20190409T200000Z
 URL:https://hacksocnotts.co.uk/event/cpp-2
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cpp-3@2019.hacksocnotts.co.uk
 SUMMARY:C++ Workshop 3
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190411T183000Z
 DTEND:20190411T200000Z
 URL:https://hacksocnotts.co.uk/event/cpp-3
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cyber-security-1@2019.hacksocnotts.co.uk
 SUMMARY:Cyber Security (Wireless Security) Workshop 1
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190312T183000Z
 DTEND:20190312T200000Z
 URL:https://hacksocnotts.co.uk/event/cyber-security-1
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cyber-security-2@2019.hacksocnotts.co.uk
 SUMMARY:Cyber Security (Wireless Security) Workshop 2
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190319T183000Z
 DTEND:20190319T200000Z
 URL:https://hacksocnotts.co.uk/event/cyber-security-2
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cyber-security-3@2019.hacksocnotts.co.uk
 SUMMARY:Cyber Security (Wireless Security) Workshop 3
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190326T183000Z
 DTEND:20190326T200000Z
 URL:https://hacksocnotts.co.uk/event/cyber-security-3
@@ -224,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deep-learning@2019.hacksocnotts.co.uk
 SUMMARY:Deep Learning Workshop - CNNs\, Cats\, and Convex Losses
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190402T183000Z
 DTEND:20190402T200000Z
 URL:https://hacksocnotts.co.uk/event/deep-learning
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hacknotts-2018@2018.hacksocnotts.co.uk
 SUMMARY:HackNotts 2018
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181124T100000Z
 DTEND:20181125T170000Z
 URL:https://hacksocnotts.co.uk/event/hacknotts-2018
@@ -272,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hacknotts-2019@2019.hacksocnotts.co.uk
 SUMMARY:HackNotts 2019
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20191116T100000Z
 DTEND:20191117T170000Z
 URL:https://hacksocnotts.co.uk/event/hacknotts-2019
@@ -296,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hacktoberfest-2018@2018.hacksocnotts.co.uk
 SUMMARY:Hacktoberfest Open Hack Day
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181011T180000Z
 DTEND:20181011T235900Z
 URL:https://hacksocnotts.co.uk/event/hacktoberfest-2018
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-javascript-1@2018.hacksocnotts.co.uk
 SUMMARY:Intro to JavaScript (1)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181106T183000Z
 DTEND:20181106T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-javascript-1
@@ -344,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-javascript-2@2018.hacksocnotts.co.uk
 SUMMARY:Intro to JavaScript (2)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181113T183000Z
 DTEND:20181113T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-javascript-2
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-javascript-3@2018.hacksocnotts.co.uk
 SUMMARY:Intro to JavaScript (3)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181127T183000Z
 DTEND:20181127T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-javascript-3
@@ -392,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-javascript-4@2018.hacksocnotts.co.uk
 SUMMARY:Intro to JavaScript (4)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181204T183000Z
 DTEND:20181204T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-javascript-4
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-javascript-5@2018.hacksocnotts.co.uk
 SUMMARY:TBD Intro to JavaScript (5)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181211T183000Z
 DTEND:20181211T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-javascript-5
@@ -440,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-linux@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Linux
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181018T183000Z
 DTEND:20181018T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-linux
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-python-1@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Python (1)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181002T183000Z
 DTEND:20181002T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-python-1
@@ -488,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-python-2@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Python (2)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181009T183000Z
 DTEND:20181009T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-python-2
@@ -512,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-python-3@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Python (3)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181016T183000Z
 DTEND:20181016T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-python-3
@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-python-4@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Python (4)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181023T183000Z
 DTEND:20181023T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-python-4
@@ -560,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:intro-to-python-5@2018.hacksocnotts.co.uk
 SUMMARY:Intro to Python (5)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181030T183000Z
 DTEND:20181030T200000Z
 URL:https://hacksocnotts.co.uk/event/intro-to-python-5
@@ -584,7 +584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kotlin-better-than-java-1@2019.hacksocnotts.co.uk
 SUMMARY:Kotlin > Java (1)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190214T183000Z
 DTEND:20190214T200000Z
 URL:https://hacksocnotts.co.uk/event/kotlin-better-than-java-1
@@ -608,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kotlin-better-than-java-2@2019.hacksocnotts.co.uk
 SUMMARY:Kotlin > Java (2)
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190221T183000Z
 DTEND:20190221T200000Z
 URL:https://hacksocnotts.co.uk/event/kotlin-better-than-java-2
@@ -632,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:margins-2019@2019.hacksocnotts.co.uk
 SUMMARY:margins 2019
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190622T100000Z
 DTEND:20190622T163000Z
 URL:https://hacksocnotts.co.uk/event/margins-2019
@@ -656,7 +656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mlh-localhackday-2018@2018.hacksocnotts.co.uk
 SUMMARY:MLH Local Hack Day
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181201T090000Z
 DTEND:20181201T210000Z
 URL:https://hacksocnotts.co.uk/event/mlh-localhackday-2018
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 UID:mlh-localhost-blockchain-basics-feb-2019@2019.hacksocnotts.co.uk
 SUMMARY:MLH Localhost: Blockchain Basics: An Introduction to Quorum®\, Crea
 	ted by J.P. Morgan
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190212T183000Z
 DTEND:20190212T200000Z
 URL:https://hacksocnotts.co.uk/event/mlh-localhost-blockchain-basics-feb-20
@@ -706,7 +706,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mlh-localhost-build-and-deploy-your-first-website-jan-2019@2019.hacksocnotts.co.uk
 SUMMARY:MLH Localhost: Build & Deploy Your First Website
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190131T183000Z
 DTEND:20190131T200000Z
 URL:https://hacksocnotts.co.uk/event/mlh-localhost-build-and-deploy-your-fi
@@ -731,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mlh-localhost-learn-c-sharp-with-unity-feb-2019@2019.hacksocnotts.co.uk
 SUMMARY:MLH Localhost: Learn C# With Unity
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190226T183000Z
 DTEND:20190226T200000Z
 URL:https://hacksocnotts.co.uk/event/mlh-localhost-learn-c-sharp-with-unity
@@ -756,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:october-egm@2018.hacksocnotts.co.uk
 SUMMARY:October EGM
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181004T183000Z
 DTEND:20181004T200000Z
 URL:https://hacksocnotts.co.uk/event/october-egm
@@ -780,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:slideshow-karaoke-june-11-2019@2019.hacksocnotts.co.uk
 SUMMARY:End of Year: Slideshow Karaoke
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190611T193000Z
 DTEND:20190611T213000Z
 URL:https://hacksocnotts.co.uk/event/slideshow-karaoke-june-11-2019
@@ -804,7 +804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:talking-to-alexa@2018.hacksocnotts.co.uk
 SUMMARY:Talking to Alexa
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181025T183000Z
 DTEND:20181025T200000Z
 URL:https://hacksocnotts.co.uk/event/talking-to-alexa
@@ -828,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-april-2019@2019.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190408T180000Z
 DTEND:20190408T210000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-april-2019
@@ -851,7 +851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-june-2019@2019.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190610T180000Z
 DTEND:20190610T210000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-june-2019
@@ -874,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-jurassic-park-what-went-wrong@2018.hacksocnotts.co.uk
 SUMMARY:Jurassic Park - What went wrong?
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181115T183000Z
 DTEND:20181115T200000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-jurassic-park-what-wen
@@ -899,7 +899,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-march-2019@2019.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190311T180000Z
 DTEND:20190311T210000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-march-2019
@@ -922,7 +922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-november-2018@2018.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181112T183000Z
 DTEND:20181112T210000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-november-2018
@@ -945,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tech-nottingham-october-2018@2018.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20181008T183000Z
 DTEND:20181008T210000Z
 URL:https://hacksocnotts.co.uk/event/tech-nottingham-october-2018
@@ -968,7 +968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:technottingham-feb-2019@2019.hacksocnotts.co.uk
 SUMMARY:HackSoc Storms Tech Nottingham February 2019
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20190211T183000Z
 DTEND:20190211T210000Z
 URL:https://hacksocnotts.co.uk/event/technottingham-feb-2019
@@ -991,7 +991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:try-it-event@2018.hacksocnotts.co.uk
 SUMMARY:Try-it Event
-DTSTAMP:20190531T210100Z
+DTSTAMP:20190609T114800Z
 DTSTART:20180926T183000Z
 DTEND:20180926T200000Z
 URL:https://hacksocnotts.co.uk/event/try-it-event
