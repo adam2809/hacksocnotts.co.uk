@@ -1,0 +1,2 @@
+webpackJsonp([54],{1276:function(t,e){t.exports="There isn't a better way to close off the year than to spend time with the best community on campus.\n"}});
+//# sourceMappingURL=54.b40d220c.chunk.js.map
