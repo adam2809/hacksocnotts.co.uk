@@ -1,2 +1,0 @@
-webpackJsonp([98],{1200:function(e,t){e.exports="Join us for our try-it event where you get to meet the team and get a taste of what we do.\n\n\ud83c\udf55\ud83c\udf55\ud83c\udf55 We'll be providing free pizza and drink \ud83c\udf55\ud83c\udf55\ud83c\udf55"}});
-//# sourceMappingURL=98.2106186c.chunk.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([78],{1240:function(e,n){e.exports="It's Hacktoberfest 2018! Let's celebrate open source over food, drinks, learning, and great company!\n"}});
-//# sourceMappingURL=78.a8430e45.chunk.js.map
