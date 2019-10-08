@@ -1,0 +1,2 @@
+webpackJsonp([56],{1308:function(e,t){e.exports="Celbrate the end of exams and kickstart your summer by joining us for June's Edition of Tech Notingham with talks by Louise Paling, Liam Gulliver and Matthew Walton. Plus they've got free food and drinks provided at the event thanks to their sponsors."}});
+//# sourceMappingURL=56.aa580cf9.chunk.js.map
