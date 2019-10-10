@@ -1,0 +1,2 @@
+webpackJsonp([115],{1214:function(e,o){e.exports="__Want to learn Python? Never written any code before?__\n\nA crash course from zero to hero in python! Our very own HackSoc team will be teaching the fundamentals of Python.\n\nPython is an incredibly versatile programming language that's easy to learn. If you've ever wanted to learn how to code or just want to supplement your studies, our crash course is a great place to do it.\n\nThis event is open to anybody, no matter how much experience you have!"}});
+//# sourceMappingURL=115.aa717979.chunk.js.map

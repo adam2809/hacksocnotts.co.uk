@@ -1,0 +1,2 @@
+webpackJsonp([114],{1216:function(e,o){e.exports="Python is an incredibly versatile programming language that's easy to learn. If you've ever wanted to learn how to code or just want to supplement your studies, our crash course is a great place to do it.\n\nOur very own HackSoc team will be teaching you the fundamentals of Python!"}});
+//# sourceMappingURL=114.a8e75c79.chunk.js.map

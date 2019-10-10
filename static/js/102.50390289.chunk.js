@@ -1,2 +1,0 @@
-webpackJsonp([102],{1216:function(e,o){e.exports="Learn how to effectively be a part of the Nottingham Tech Community and how to become an really good public speaker with Jessica White.\n\n"}});
-//# sourceMappingURL=102.50390289.chunk.js.map
