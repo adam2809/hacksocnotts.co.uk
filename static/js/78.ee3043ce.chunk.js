@@ -1,2 +1,0 @@
-webpackJsonp([78],{1288:function(o,e){o.exports="[margins](https://margins.tech) is a free one-day conference for people from marginalised backgrounds that work in/with/around technology (or hope to break into the industry!)."}});
-//# sourceMappingURL=78.ee3043ce.chunk.js.map

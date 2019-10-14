@@ -1,2 +1,0 @@
-webpackJsonp([127],{1190:function(n,t){n.exports="Ever heard about 'linux' but didn't know what it was? Want to look cool in front of your friends by typing 'scary' commands into the terminal? Get to grips with Linux at our intro to Linux Workshop presented by Primo\u017e Fabiani! \n\nLinux is an Operating System that can run on _anything_, making it awesomely useful for anyone interested in software, hardware or any sort of tech. Come along for this masterclass of Operating System usage!"}});
-//# sourceMappingURL=127.0348a4d6.chunk.js.map
