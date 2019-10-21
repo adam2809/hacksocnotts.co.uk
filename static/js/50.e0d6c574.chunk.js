@@ -1,2 +1,0 @@
-webpackJsonp([50],{1526:function(e,o){e.exports="Come join the committee and other members of HackSoc as we all storm TechNottingham, and hear amazing talks from the local tech community!"}});
-//# sourceMappingURL=50.e0d6c574.chunk.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([112],{1402:function(t,i){t.exports="This workshop run by Salman Chishti will get you started with integrating your own applications with the Microsoft Ecosystem."}});
-//# sourceMappingURL=112.d429d6bd.chunk.js.map
