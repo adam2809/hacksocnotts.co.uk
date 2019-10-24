@@ -2,11 +2,16 @@ const fs = require('fs');
 const ics = require('ics');
 
 json = require(__dirname + '/../src/_events/eventsManifest.json');
+moment = require('moment');
 
 const toICSDate = (timestamp) => {
-  const date = new Date(timestamp);
+  const date = moment(timestamp)
 
-  return [date.getFullYear(), date.getMonth() + 1, date.getDate(), date.getHours(), date.getMinutes()];
+  if(date.isDST()){
+    date.hours(date.hours()-1)
+  }
+
+  return [date.year(), date.month() + 1, date.date(), date.hours(), date.minutes()];
 };
 
 const getGeo = (mapLink) => {
@@ -38,7 +43,7 @@ const saveICS = (path) => {
     ],
     uid: event.id + "@" + (new Date(event.start)).getFullYear() + ".hacksocnotts.co.uk"
   }));
-  
+
   const {error, value} = ics.createEvents(events);
 
   fs.writeFileSync(path + '/calendar.ics', value);
